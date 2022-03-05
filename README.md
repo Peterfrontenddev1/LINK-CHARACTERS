@@ -9,3 +9,6 @@ a {
  a:visited {
   color: orange;
 }
+a:hover {
+  color: brown;
+}
