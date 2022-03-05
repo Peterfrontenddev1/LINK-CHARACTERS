@@ -5,7 +5,7 @@ a {
   color: black;
   }
  When the a link is visited
- you use:
+
  a:visited {
   color: orange;
 }
